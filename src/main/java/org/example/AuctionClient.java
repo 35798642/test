@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class AuctionClient {
     //添加注释
     //添加注释b2
+    //b3
     public static void main(String[] args) {
         String host = (args.length < 1) ? null : args[0];
         try {
