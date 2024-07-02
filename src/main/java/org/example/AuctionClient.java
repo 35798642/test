@@ -5,6 +5,7 @@ import java.rmi.registry.Registry;
 import java.util.Scanner;
 
 public class AuctionClient {
+    //添加注释
     public static void main(String[] args) {
         String host = (args.length < 1) ? null : args[0];
         try {
